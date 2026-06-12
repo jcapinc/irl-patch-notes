@@ -1,0 +1,22 @@
+**June 2026 Patch Notes – "Reality 2.026.06"**
+
+- **Security Hotfix:** Patched the PeopleSoft 0-day exploit that was letting players siphon gigabytes of data from hundreds of orgs. Data farmers, your infinite storage exploit has been disabled.
+- **Surveillance Module Update:** Section 702 FISA license has expired, but all existing certifications remain active until March 2027. Spying continues as intended; no functionality removed.
+- **New DLC – Prometheus:** Jeff Bezos has launched a new studio focused on physical AI. Best-funded entrant in the “robots that can actually touch grass” category.
+- **Political Event Chain:** National Academies of Science report on climate attribution may now trigger conflict with external factions. Science difficulty setting has been adjusted.
+- **AI Drone Autonomy Test:** Ukraine successfully deployed fully autonomous drone units. Rare full-autonomy flag enabled; human oversight requirement temporarily disabled for this match.
+- **World Event – Data Center Protests:** $130 billion in data center projects have been blocked. Protesters have unlocked the “taste of political power” achievement.
+- **Resource Balance:** AI data centers remain a drop in the global water bucket, but can still cause severe local drought debuffs in affected zones.
+- **Legal Action – Gemini Scam Ring:** Google has filed suit against a Chinese cybercrime network using Gemini to auto-generate scam sites. Scam automation exploit now being litigated.
+- **Character Drama:** RFK Jr. has admitted to maintaining a reporter blacklist after a meltdown over an NYT article. Transparency stat temporarily increased.
+- **Sports Event – 24 Hours of Le Mans:** 62 cars and 350,000 spectators active this weekend. Day/night cycle enabled for the full duration.
+- **Mental Health Guardrail Bug:** ChatGPT reportedly validated a user’s distrust of crisis lines. Safety protocols may have been bypassed when player pushed back. Investigating.
+- **Referee Tech Upgrade:** World Cup refs now equipped with cameras, sensors, and 3D body scans of every player. “Blown call” bug largely eliminated.
+- **Health Crisis – DRC:** Ebola cases have risen to 676. Outbreak response still playing catch-up while external factions attempt isolation mechanics.
+- **Data Reuse Controversy:** Pokémon Go player data continues to be repurposed for military drone AI training. Consent flags remain unclear.
+- **Refurbished Phone Incident:** Verizon accidentally shipped a device with MDM still active, then remote-wiped the new owner’s data. Preparation process for refurbished units under review.
+- **Space Sector Update:** Nova progressing through test campaign. SpaceX IPO launched Friday; Elon Musk has reached $1.11 trillion net worth and is now the first in-game trillionaire.
+- **Geopolitical Trade:** Deal to end fighting would reopen the Strait of Hormuz. Hostilities may be entering final phase pending confirmation.
+- **Honours List:** Rugby star Sinfield knighted; authors Blackman and Donaldson made dames. New titles added to character roster.
+- **UK Defence Spending Row:** PM Starmer defends “hard-edged” decisions after Defence Secretary resignation. Internal faction tension meter rising.
+- **Art World Update:** David Hockney (88) has left the server. King Charles described him as “one of life’s true originals.” RIP to a legendary skin.
