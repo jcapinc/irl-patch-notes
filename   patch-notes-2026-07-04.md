@@ -1,0 +1,34 @@
+**Patch Notes: v2026.07 – “Oversaturated Meta” Update**
+
+- **Supergirl Hero Pack**: Rebalanced after launch. No longer considered a total wipe, but still fails to carry in the current oversaturated superhero queue. Requires “great” tier performance to remain viable.
+- **Olfactory System**: Smell module now properly tied to brain health. Players experiencing sudden loss of smell will receive a neurology warning debuff.
+- **Mars Exploration DLC**: New carbon-rich rock added to the Martian map. Biology explanation is one possible loot table; other (non-alien) explanations still under investigation.
+- **Police AI Overhaul**: England & Wales force leadership received mandatory “ethical reset” patch. Running of forces now requires fundamental rework to avoid corruption exploits.
+- **Royal Family Travel Logic**: Prince Harry solo trip to London enabled after taxpayer security toggle was disabled. Meghan and children remain in safe zone.
+- **Ukraine Faction**: Successful strike on St. Petersburg oil terminal confirmed. Revenue-generating war infrastructure node has been damaged.
+- **NHS App Update**: AI triage system rolling out to all England users by April 2028. Will now auto-route players to the most appropriate service node.
+- **Weather Event**: Extended heatwave (peaking 34°C) live for one week. Health alert status applied to all regions.
+- **Celebrity Marriage Event**: Taylor Swift & Travis Kelce wedding instance completed in New York. Dior dress cosmetic and “man of honour” role both unlocked.
+- **Government Transition**: New PM arrival triggers massive “bunfight for jobs” scramble in Whitehall. Positions being hotly contested.
+- **School Schedule Adjustment**: Certain England schools now start late following 1am World Cup kick-off to reduce parental rage-quit pressure.
+- **Festival QoL**: Ear plugs now a high-demand accessory. Not all models provide equal hearing protection; shop around.
+- **Relationship Status Update**: Unmarried cohabiting couples in England & Wales given new breakup protections. Financial split mechanics revised.
+- **England World Cup Logistics**: 1am Mexico match confirmed after FIFA U-turn. Pubs and police on high alert. Lightning, hotel security, and spying issues also active.
+- **Cape Verde Underdog Buff**: Despite 3-2 loss to Argentina, fans report maximum pride. Team leaves largest legacy impact despite second-smallest nation size.
+- **Population vs. Qualification**: Eight of the ten most populous countries remain locked out of the World Cup. Population size no longer guarantees qualification.
+- **Wimbledon Tennis**: Arthur Fery survives three nosebleed events to reach fourth round. British singles hopes still alive.
+- **Crocodile Attack Incident**: 3-year-old player required five surgeries. Arm/wrist/hand movement and feeling remain uncertain.
+- **Albania Protest Event**: “Flamingo Revolution” live. Thousands demanding PM resignation; flamingos now national protest symbol.
+- **Serena & Venus Williams**: Planned doubles appearance cancelled due to knee injury. Entry removed from draw.
+- **Pope Migration Patch**: Europe urged to increase migrant support during Lampedusa visit. Tribute paid to players lost at sea.
+- **Iran Leadership Transition**: Ayatollah Khamenei funeral draws large crowds. Body will lie in state until Monday.
+- **US Independence Anniversary**: King issues “truly historic milestone” message on 250th anniversary. Friendship/trust/liberty relationship confirmed.
+- **Cricket Debut**: 15-year-old Vaibhav Sooryavanshi becomes youngest India player in England T20. Thrilling four-wicket match concluded.
+- **Cold Case Investigation**: Second arrest made in 1998 Donna Keogh disappearance. 62-year-old suspect in custody.
+- **England vs Mexico Preview**: Alan Shearer confirms team will not fear Azteca conditions. Psychological buff applied.
+- **Morocco Win Streak**: 34-match unbeaten run continues. World Cup contender status now officially unlocked.
+- **Rugby Result**: South Africa defeat faltering England. Borthwick side advised to end losing streak before next patch.
+- **Scotland Rugby**: 12-try thriller victory over Argentina (47-38). Debutant Gregor Hiddleston among try scorers.
+- **Romance Scam Awareness**: New educational questline added regarding online romance fraud networks.
+- **MagSafe Charger Tier List**: 15 best wireless charging options documented for Qi2/MagSafe devices.
+- **NASA Photo Archive**: Decades of high-resolution space imagery now easily discoverable and free to use.
