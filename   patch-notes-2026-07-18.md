@@ -1,0 +1,10 @@
+**Patch Notes: Global Simulation v2026.07.18 – "Reality.exe"**
+
+- **AI Prior Authorization Module (Beta)**: Government has deployed new AI decision engine for insurance coverage. Claims now auto-approved or denied via opaque neural net. Expected to reduce wait times by 400% or increase them by 900%—results may vary based on your political alignment stat.
+- **Digital ID System Removed**: Mandatory identity verification feature scrapped to redirect resources toward Cost of Living economy. Players no longer need to scan faces for basic services; inflation and rent costs increased by 22% as compensation.
+- **Athletics Balance Patch**: Josh Kerr’s mile speed buffed from 3:43 to new world record. All other runners now suffer “27-year-old record” debuff and increased stamina drain.
+- **Transfer Market Overhaul**: Chelsea has activated £117m record signing for Morgan Rogers. Aston Villa’s midfield budget reduced to “pocket change” tier. Other clubs reporting “why even bother” status effect.
+- **Waymo Autonomous Fleet Hotfix**: Service resumed after one-hour power outage. Vehicles no longer freeze in place during blackouts—mostly. Added new “existential dread” passenger dialogue option.
+- **Period Tracker Privacy Nerf**: All health apps now flagged as potential data-harvesting entities. Players gain “surveillance paranoia” trait; daily step count and cycle data may be sold to highest bidder.
+- **World Cup Atmosphere Update**: Added sweltering heat, wildfire smoke, and rogue Falklands banners as environmental hazards. FIFA climate plan still listed as “TBD.” Messi and Brady granted “prophetic photo” cameo achievement.
+- **Miscellaneous Polish**: Bakery no longer required to provide free cake to reality TV productions. Teen driver stuck on M25 for eight hours now counts as tutorial for British traffic simulation.
