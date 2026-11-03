@@ -1,0 +1,12 @@
+**Patch Notes - v2026.11 "World Events Hotfix"**
+
+- **Fixed exposed Russian data center meta.** Players can no longer snipe servers with low-flying drone strikes. All Russian faction data centers have been moved underground. Note: This may have accidentally buffed mole people.
+- **New York Times faction now sues on sight.** Brave browser players attempting to block paywalls or resell content to AI companies will be hit with the "supplier, dealer, and distributor" debuff. Lawsuit projectiles now track through multiple tabs.
+- **Car interior UI overhaul.** Piano black gloss has been removed. Physical buttons are back. Storage capacity increased across all vehicle chassis. Touchscreen-only players are now experiencing withdrawal debuffs.
+- **Google Classroom now offers "No AI" difficulty mode.** Schools that toggle this on must also disable Search. Students report the new mode feels suspiciously like 2003.
+- **CDC health alert system temporarily disabled.** Measles has received another unintended buff. Anti-vax mechanics continue to spread faster than intended despite multiple previous patches.
+- **1.3 million Android TV boxes removed from the botnet economy.** Google has cut ties with the shady vendor. Players using rooted TV boxes for crypto mining may notice their free compute has been nerfed.
+- **New propellant system added.** Spacecraft can now refuel using water found "everywhere." Delta-V economy has been completely upended. Several probe players are already filing complaints about the new "just add ice" meta.
+- **UEFI Secure Boot protections clarified.** A new bootkit exploit (BlackX) bypassed fully patched systems. Microsoft has stated this is working as intended. Players are advised to stop assuming the security layer actually secures anything.
+- **Meta has temporarily suspended the "No Kings" Instagram account.** Election day visibility reduced to zero. Several political factions are reporting this feels less like a bug and more like a paid feature.
+- **EPA has officially given up on factory farm air pollution enforcement.** The Clean Air Act now has a large "farm exemption" zone. Players running livestock operations can pollute freely without consequence.
